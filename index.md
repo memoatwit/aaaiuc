@@ -7,7 +7,7 @@ Things:
 ### UC 2021 Vancover 
 -other stuff
 
-Test links: <a href="2020a.html">2020a</a> or [2020b](https://github.com/memoatwit/aaaiuc/edit/master/2020b.md)
+Test links: <a href="2020a.html">2020a</a> or [2020b](https://github.com/memoatwit/aaaiuc/2020b.md)
 
 
 ## Welcome to GitHub Pages
