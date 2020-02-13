@@ -6,6 +6,6 @@ Visit our inaugral UC page: [AAAI-UC 2020](2020.md)
 ### UC 2021 @ Vancover 
 UC-21 is under development at [AAAI-UC 2021](2021.md)
 
-Markdown example [here] (mdex.md)
+Markdown example [here](mdex.md)
 
 Jim and Memo
