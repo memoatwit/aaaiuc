@@ -9,6 +9,8 @@ Things:
 
 Test links: <a href="2020a.html">2020a</a> or [2020b](https://github.com/memoatwit/aaaiuc/2020b.md)
 
+[2020b2](https://github.com/memoatwit/aaaiuc/master/2020b.md)
+
 
 ## Welcome to GitHub Pages
 
